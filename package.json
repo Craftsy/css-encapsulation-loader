@@ -1,0 +1,17 @@
+{
+  "name": "css-encapsulation-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader to encapsulate CSS targets based on filename",
+  "main": "CSSEncapsulationLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craftsy and Sympoz Inc.",
+  "contributors": [
+    "chandler@craftsy.com"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "encapsulate-css": "^1.0.1"
+  }
+}
